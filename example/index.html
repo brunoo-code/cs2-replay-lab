@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mirage · CS2 Replay Lab</title>
+<link rel="stylesheet" href="./viewer.css">
+<main>
+  <header>
+    <a href="https://github.com/brunoo-code/cs2-replay-lab">CS2 Replay Lab</a>
+    <h1>Mirage</h1>
+    <p>Eventos de um replay de Counter-Strike 2</p>
+  </header>
+  <section class="layout" aria-label="Explorador de eventos">
+    <figure>
+      <div class="radar">
+        <img id="radar-image" width="1024" height="1024" alt="Radar oficial de Mirage"
+             src="https://raw.githubusercontent.com/MurkyYT/cs2-map-icons/50ca4c14b67762b3b3ee137b526b8cf300c0d8c9/images/radars/de_mirage_radar_psd.png">
+        <svg id="points" viewBox="0 0 1024 1024" aria-label="Eventos no radar"></svg>
+      </div>
+      <figcaption>Radar © Valve · <a href="https://github.com/MurkyYT/cs2-map-icons/tree/50ca4c14b67762b3b3ee137b526b8cf300c0d8c9">Imagem e calibração</a></figcaption>
+      <p id="radar-error" hidden>O radar não carregou. Os pontos continuam na escala da imagem original.</p>
+    </figure>
+    <aside>
+      <label for="round">Round</label>
+      <select id="round" disabled><option value="">Todos os rounds</option></select>
+      <fieldset id="types" disabled><legend>Tipos de evento</legend></fieldset>
+      <p id="status" role="status">Carregando replay…</p>
+      <p id="details">Selecione um ponto ou evento para ver os detalhes.</p>
+      <ol id="timeline" aria-label="Eventos filtrados"></ol>
+    </aside>
+  </section>
+</main>
+<script type="module" src="./viewer.mjs"></script>
+</html>

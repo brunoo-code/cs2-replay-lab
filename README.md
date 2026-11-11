@@ -8,6 +8,13 @@ Analisador offline de replays do Counter-Strike 2. Lê um arquivo `.dem` e gera 
 
 [![Testes](https://github.com/brunoo-code/cs2-replay-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/brunoo-code/cs2-replay-lab/actions/workflows/ci.yml)
 
+
+## Radar interativo de Mirage
+
+[Abra o mapa interativo no GitHub Pages](https://brunoo-code.github.io/cs2-replay-lab/example/). Selecione um round, combine os filtros de abates, plantios e desarmes e selecione um ponto para conferir o tick e os detalhes disponíveis.
+
+O navegador carrega o radar original da Valve a partir de uma [cópia externa fixada por commit](https://github.com/MurkyYT/cs2-map-icons/tree/50ca4c14b67762b3b3ee137b526b8cf300c0d8c9). A calibração de Mirage usa origem X = −3230, Y = 1713 e 5 unidades de mundo por pixel. A fórmula é Xradar = (X + 3230) / 5 e Yradar = (1713 − Y) / 5, sobre a imagem de 1024 × 1024. O visualizador usa o replay de exemplo. Para outras partidas, a CLI continua gerando os relatórios.
+
 ## Reproduzir o exemplo
 
 Use Node.js 22 ou superior.
