@@ -1,4 +1,4 @@
-import { EVENT_TYPES, selectEvents } from "./radar.mjs";
+import { EVENT_TYPES, selectEvents } from "./radar.mjs?v=2";
 
 const round = document.querySelector("#round");
 const types = document.querySelector("#types");
