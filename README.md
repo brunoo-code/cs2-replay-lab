@@ -6,12 +6,14 @@ Analisador offline de replays do Counter-Strike 2. Lê um arquivo `.dem` e gera 
 
 [Mapa SVG](example/map.svg) · [Linha do tempo JSON](example/events.json) · [Replay original de Mirage](https://github.com/LaihoE/demoparser/blob/aafa6079f5c53efa036189b5e6fe0aa350523d87/src/parser/test_demo.dem)
 
+[![Testes](https://github.com/brunoo-code/cs2-replay-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/brunoo-code/cs2-replay-lab/actions/workflows/ci.yml)
+
 ## Reproduzir o exemplo
 
 Use Node.js 22 ou superior.
 
 ```sh
-npm ci
+npm install
 npm run sample
 npm test
 npm run analyze -- sample.dem
