@@ -5,7 +5,7 @@ const { parseHeader, parseEvents } = require("@laihoe/demoparser2");
 const types = ["round_start", "round_end", "player_death", "bomb_planted", "bomb_defused", "bomb_exploded"];
 const markers = {
   player_death: ["Abates (posição da vítima)", "#ff777d"],
-  bomb_planted: ["Plantio (posição do jogador)", "#ffd166"],
+  bomb_planted: ["Bomba plantada", "#ffd166"],
   bomb_defused: ["Desarme (posição do jogador)", "#61e8ba"],
 };
 

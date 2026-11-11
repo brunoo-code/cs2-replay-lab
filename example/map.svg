@@ -91,7 +91,7 @@
 <text x="538" y="124" fill="#f3f6fb" font-size="20" font-weight="650">81 pontos no mapa</text>
 <text x="538" y="152" fill="#a5b5cb" font-size="14">103 eventos na linha do tempo</text>
 <circle cx="545" cy="198" r="5" fill="#ff777d"/><text x="561" y="203" fill="#e7edf5" font-size="15">Abates (posição da vítima)</text><text x="814" y="203" text-anchor="end" fill="#ff777d" font-size="16">73</text>
-<circle cx="545" cy="244" r="5" fill="#ffd166"/><text x="561" y="249" fill="#e7edf5" font-size="15">Plantio (posição do jogador)</text><text x="814" y="249" text-anchor="end" fill="#ffd166" font-size="16">7</text>
+<circle cx="545" cy="244" r="5" fill="#ffd166"/><text x="561" y="249" fill="#e7edf5" font-size="15">Bomba plantada</text><text x="814" y="249" text-anchor="end" fill="#ffd166" font-size="16">7</text>
 <circle cx="545" cy="290" r="5" fill="#61e8ba"/><text x="561" y="295" fill="#e7edf5" font-size="15">Desarme (posição do jogador)</text><text x="814" y="295" text-anchor="end" fill="#61e8ba" font-size="16">1</text>
 <text x="538" y="378" fill="#a5b5cb" font-size="13">Escala uniforme. +X à direita, +Y para cima.</text>
 <text x="538" y="401" fill="#a5b5cb" font-size="13">Alturas sobrepostas, sem planta do cenário.</text>

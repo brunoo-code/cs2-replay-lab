@@ -7,7 +7,7 @@ export const RADAR = {
 
 export const EVENT_TYPES = {
   player_death: { label: "Abates", single: "Abate", color: "#ff777d" },
-  bomb_planted: { label: "Plantios", single: "Plantio", color: "#ffd166" },
+  bomb_planted: { label: "Bombas plantadas", single: "Bomba plantada", color: "#ffd166" },
   bomb_defused: { label: "Desarmes", single: "Desarme", color: "#61e8ba" },
 };
 
