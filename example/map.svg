@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 560" role="img" aria-labelledby="title">
+<title id="title">Mapa de eventos de de_mirage</title>
+<defs><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#273649" stroke-width="1"/></pattern></defs>
+<rect width="850" height="560" rx="14" fill="#111a28"/>
+<g font-family="system-ui, sans-serif">
+<text x="28" y="43" fill="#f3f6fb" font-size="26" font-weight="700">CS2 Replay Lab</text>
+<text x="29" y="67" fill="#a5b5cb" font-size="15">de_mirage · projeção XY dos eventos</text>
+<rect x="26" y="84" width="488" height="438" rx="8" fill="url(#grid)" stroke="#36475e"/>
+<circle cx="234.74" cy="469.72" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 3086</title></circle>
+<circle cx="207.19" cy="267.72" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 4285</title></circle>
+<circle cx="199.17" cy="244.70" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 4493</title></circle>
+<circle cx="200.05" cy="268.26" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 4518</title></circle>
+<circle cx="226.84" cy="357.86" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 4876</title></circle>
+<circle cx="268.17" cy="355.70" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 7013</title></circle>
+<circle cx="183.59" cy="305.21" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 7134</title></circle>
+<circle cx="109.43" cy="195.57" r="7" fill="#ffd166" fill-opacity=".87"><title>bomb_planted · round 1 · tick 8259</title></circle>
+<circle cx="237.66" cy="204.80" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 1 · tick 8971</title></circle>
+<circle cx="288.97" cy="301.52" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 12085</title></circle>
+<circle cx="96.41" cy="132.28" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 12172</title></circle>
+<circle cx="79.59" cy="170.55" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 12308</title></circle>
+<circle cx="84.21" cy="156.08" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 12481</title></circle>
+<circle cx="232.97" cy="462.08" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 12509</title></circle>
+<circle cx="262.68" cy="379.52" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 12837</title></circle>
+<circle cx="292.59" cy="429.68" r="7" fill="#ffd166" fill-opacity=".87"><title>bomb_planted · round 2 · tick 13361</title></circle>
+<circle cx="298.85" cy="453.07" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 14454</title></circle>
+<circle cx="214.39" cy="361.13" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 2 · tick 14483</title></circle>
+<circle cx="287.01" cy="432.47" r="7" fill="#61e8ba" fill-opacity=".87"><title>bomb_defused · round 2 · tick 15232</title></circle>
+<circle cx="198.01" cy="245.47" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 3 · tick 19429</title></circle>
+<circle cx="242.76" cy="192.71" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 3 · tick 20386</title></circle>
+<circle cx="189.67" cy="305.29" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 3 · tick 21023</title></circle>
+<circle cx="75.31" cy="216.51" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 3 · tick 21149</title></circle>
+<circle cx="251.30" cy="334.25" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 3 · tick 21182</title></circle>
+<circle cx="231.80" cy="443.35" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 3 · tick 21457</title></circle>
+<circle cx="289.81" cy="415.13" r="7" fill="#ffd166" fill-opacity=".87"><title>bomb_planted · round 4 · tick 21853</title></circle>
+<circle cx="82.35" cy="165.87" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 4 · tick 24380</title></circle>
+<circle cx="243.75" cy="352.76" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 4 · tick 24730</title></circle>
+<circle cx="78.61" cy="235.24" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 4 · tick 24835</title></circle>
+<circle cx="113.22" cy="185.78" r="7" fill="#ffd166" fill-opacity=".87"><title>bomb_planted · round 4 · tick 25497</title></circle>
+<circle cx="261.79" cy="309.16" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 4 · tick 25628</title></circle>
+<circle cx="221.05" cy="359.01" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 4 · tick 26064</title></circle>
+<circle cx="257.95" cy="342.70" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 29422</title></circle>
+<circle cx="306.88" cy="407.92" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 29635</title></circle>
+<circle cx="249.88" cy="370.52" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 29827</title></circle>
+<circle cx="327.76" cy="450.99" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 30042</title></circle>
+<circle cx="187.95" cy="309.34" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 30139</title></circle>
+<circle cx="214.53" cy="363.88" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 30359</title></circle>
+<circle cx="263.69" cy="449.48" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 30362</title></circle>
+<circle cx="334.27" cy="451.81" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 30843</title></circle>
+<circle cx="308.69" cy="377.48" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 5 · tick 31197</title></circle>
+<circle cx="185.68" cy="323.71" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 6 · tick 34430</title></circle>
+<circle cx="241.16" cy="218.66" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 6 · tick 34525</title></circle>
+<circle cx="242.48" cy="368.93" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 6 · tick 35196</title></circle>
+<circle cx="257.46" cy="411.64" r="7" fill="#ffd166" fill-opacity=".87"><title>bomb_planted · round 6 · tick 36196</title></circle>
+<circle cx="256.16" cy="378.57" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 6 · tick 36522</title></circle>
+<circle cx="257.10" cy="368.22" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 6 · tick 36633</title></circle>
+<circle cx="259.06" cy="285.41" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 6 · tick 36871</title></circle>
+<circle cx="217.79" cy="163.80" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 39019</title></circle>
+<circle cx="213.99" cy="172.09" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 41696</title></circle>
+<circle cx="231.77" cy="285.98" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 42074</title></circle>
+<circle cx="198.85" cy="262.61" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 42192</title></circle>
+<circle cx="259.53" cy="284.80" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 42449</title></circle>
+<circle cx="238.08" cy="438.36" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 42736</title></circle>
+<circle cx="212.85" cy="352.39" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 43542</title></circle>
+<circle cx="206.68" cy="263.90" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 44515</title></circle>
+<circle cx="259.59" cy="431.92" r="7" fill="#ffd166" fill-opacity=".87"><title>bomb_planted · round 7 · tick 44650</title></circle>
+<circle cx="253.89" cy="301.27" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 7 · tick 45092</title></circle>
+<circle cx="336.88" cy="446.23" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 8 · tick 47942</title></circle>
+<circle cx="121.29" cy="242.04" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 8 · tick 48807</title></circle>
+<circle cx="120.91" cy="179.52" r="7" fill="#ffd166" fill-opacity=".87"><title>bomb_planted · round 8 · tick 49094</title></circle>
+<circle cx="333.24" cy="445.11" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 8 · tick 49246</title></circle>
+<circle cx="261.22" cy="390.42" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 8 · tick 49410</title></circle>
+<circle cx="326.03" cy="447.84" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 8 · tick 49811</title></circle>
+<circle cx="379.01" cy="429.06" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 51790</title></circle>
+<circle cx="134.54" cy="196.95" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 54599</title></circle>
+<circle cx="262.19" cy="319.55" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 55056</title></circle>
+<circle cx="246.67" cy="431.51" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 55334</title></circle>
+<circle cx="75.00" cy="246.84" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 55359</title></circle>
+<circle cx="255.97" cy="299.49" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 55499</title></circle>
+<circle cx="338.85" cy="369.63" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 55625</title></circle>
+<circle cx="266.24" cy="429.87" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 9 · tick 55959</title></circle>
+<circle cx="465.00" cy="236.41" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57208</title></circle>
+<circle cx="123.54" cy="393.91" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57670</title></circle>
+<circle cx="160.00" cy="393.08" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57670</title></circle>
+<circle cx="465.00" cy="226.41" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57677</title></circle>
+<circle cx="136.66" cy="410.58" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57677</title></circle>
+<circle cx="123.54" cy="410.58" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57677</title></circle>
+<circle cx="440.00" cy="201.41" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57677</title></circle>
+<circle cx="448.33" cy="236.72" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57677</title></circle>
+<circle cx="448.33" cy="206.41" r="4" fill="#ff777d" fill-opacity=".87"><title>player_death · round 11 · tick 57677</title></circle>
+
+<text x="538" y="124" fill="#f3f6fb" font-size="20" font-weight="650">81 pontos no mapa</text>
+<text x="538" y="152" fill="#a5b5cb" font-size="14">103 eventos na linha do tempo</text>
+<circle cx="545" cy="198" r="5" fill="#ff777d"/><text x="561" y="203" fill="#e7edf5" font-size="15">Abates (posição da vítima)</text><text x="814" y="203" text-anchor="end" fill="#ff777d" font-size="16">73</text>
+<circle cx="545" cy="244" r="5" fill="#ffd166"/><text x="561" y="249" fill="#e7edf5" font-size="15">Plantio (posição do jogador)</text><text x="814" y="249" text-anchor="end" fill="#ffd166" font-size="16">7</text>
+<circle cx="545" cy="290" r="5" fill="#61e8ba"/><text x="561" y="295" fill="#e7edf5" font-size="15">Desarme (posição do jogador)</text><text x="814" y="295" text-anchor="end" fill="#61e8ba" font-size="16">1</text>
+<text x="538" y="378" fill="#a5b5cb" font-size="13">Escala uniforme. +X à direita, +Y para cima.</text>
+<text x="538" y="401" fill="#a5b5cb" font-size="13">Alturas sobrepostas, sem planta do cenário.</text>
+</g></svg>

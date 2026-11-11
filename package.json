@@ -1,0 +1,13 @@
+{
+  "name": "cs2-replay-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "sample": "node sample.js",
+    "analyze": "node analyze.js",
+    "test": "node --test"
+  },
+  "dependencies": { "@laihoe/demoparser2": "0.42.0" }
+}

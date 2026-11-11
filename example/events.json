@@ -1,0 +1,1265 @@
+{
+  "map": "de_mirage",
+  "stampHex": "504244454d533200",
+  "counts": {
+    "round_start": 10,
+    "round_end": 10,
+    "player_death": 73,
+    "bomb_planted": 7,
+    "bomb_defused": 1,
+    "bomb_exploded": 2
+  },
+  "events": [
+    {
+      "type": "round_start",
+      "tick": 65,
+      "round": 1,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 3086,
+      "round": 1,
+      "position": {
+        "x": -834.4987182617188,
+        "y": -2543.712158203125,
+        "z": -35.96875
+      },
+      "weapon": "p250",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 4285,
+      "round": 1,
+      "position": {
+        "x": -1098.982421875,
+        "y": -604.5370483398438,
+        "z": -134.96875
+      },
+      "weapon": "fiveseven",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 4493,
+      "round": 1,
+      "position": {
+        "x": -1175.9500732421875,
+        "y": -383.5955810546875,
+        "z": -55.96875
+      },
+      "weapon": "glock",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 4518,
+      "round": 1,
+      "position": {
+        "x": -1167.4637451171875,
+        "y": -609.7582397460938,
+        "z": -167.96875
+      },
+      "weapon": "glock",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 4876,
+      "round": 1,
+      "position": {
+        "x": -910.3017578125,
+        "y": -1469.9366455078125,
+        "z": -167.96875
+      },
+      "weapon": "hkp2000",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 7013,
+      "round": 1,
+      "position": {
+        "x": -513.59765625,
+        "y": -1449.1851806640625,
+        "z": -69.411865234375
+      },
+      "weapon": "hkp2000",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 7134,
+      "round": 1,
+      "position": {
+        "x": -1325.46923828125,
+        "y": -964.44677734375,
+        "z": -167.96875
+      },
+      "weapon": "deagle",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "bomb_planted",
+      "tick": 8259,
+      "round": 1,
+      "position": {
+        "x": -2037.435302734375,
+        "y": 88.048095703125,
+        "z": -159.96875
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 185
+    },
+    {
+      "type": "player_death",
+      "tick": 8971,
+      "round": 1,
+      "position": {
+        "x": -806.4016723632812,
+        "y": -0.564697265625,
+        "z": -168.0123291015625
+      },
+      "weapon": "glock",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "round_end",
+      "tick": 8971,
+      "round": 1,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 9419,
+      "round": 2,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 12085,
+      "round": 2,
+      "position": {
+        "x": -313.88433837890625,
+        "y": -929.0336303710938,
+        "z": -165.969482421875
+      },
+      "weapon": "mp9",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 12172,
+      "round": 2,
+      "position": {
+        "x": -2162.436767578125,
+        "y": 695.593017578125,
+        "z": -130.52215576171875
+      },
+      "weapon": "usp_silencer",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 12308,
+      "round": 2,
+      "position": {
+        "x": -2323.904541015625,
+        "y": 328.2969055175781,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 12481,
+      "round": 2,
+      "position": {
+        "x": -2279.54638671875,
+        "y": 467.1575927734375,
+        "z": -167.96875
+      },
+      "weapon": "usp_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 12509,
+      "round": 2,
+      "position": {
+        "x": -851.5093994140625,
+        "y": -2470.419921875,
+        "z": -97.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 12837,
+      "round": 2,
+      "position": {
+        "x": -566.2821655273438,
+        "y": -1677.839111328125,
+        "z": -173.3525390625
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "bomb_planted",
+      "tick": 13361,
+      "round": 2,
+      "position": {
+        "x": -279.0823974609375,
+        "y": -2159.39111328125,
+        "z": -173.5819091796875
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 184
+    },
+    {
+      "type": "player_death",
+      "tick": 14454,
+      "round": 2,
+      "position": {
+        "x": -219.01861572265625,
+        "y": -2383.90478515625,
+        "z": -165.18719482421875
+      },
+      "weapon": "usp_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 14483,
+      "round": 2,
+      "position": {
+        "x": -1029.80810546875,
+        "y": -1501.2896728515625,
+        "z": -164.1614990234375
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "bomb_defused",
+      "tick": 15232,
+      "round": 2,
+      "position": {
+        "x": -332.66827392578125,
+        "y": -2186.16650390625,
+        "z": -173.58349609375
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 184
+    },
+    {
+      "type": "round_end",
+      "tick": 15232,
+      "round": 2,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 15680,
+      "round": 3,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 19429,
+      "round": 3,
+      "position": {
+        "x": -1187.1214599609375,
+        "y": -391.001953125,
+        "z": -55.96875
+      },
+      "weapon": "mac10",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 20386,
+      "round": 3,
+      "position": {
+        "x": -757.4783935546875,
+        "y": 115.48161315917969,
+        "z": -171.0848388671875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 21023,
+      "round": 3,
+      "position": {
+        "x": -1267.1217041015625,
+        "y": -965.1981201171875,
+        "z": -167.96875
+      },
+      "weapon": "ssg08",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 21149,
+      "round": 3,
+      "position": {
+        "x": -2365.02880859375,
+        "y": -113.007080078125,
+        "z": -163.8502197265625
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 21182,
+      "round": 3,
+      "position": {
+        "x": -675.512451171875,
+        "y": -1243.2265625,
+        "z": -167.96875
+      },
+      "weapon": "m4a1",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 21457,
+      "round": 3,
+      "position": {
+        "x": -862.6537475585938,
+        "y": -2290.61083984375,
+        "z": -171.43890380859375
+      },
+      "weapon": "mac10",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "round_end",
+      "tick": 21457,
+      "round": 3,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "bomb_planted",
+      "tick": 21853,
+      "round": 4,
+      "position": {
+        "x": -305.77978515625,
+        "y": -2019.7359619140625,
+        "z": -172.4705810546875
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 184
+    },
+    {
+      "type": "round_start",
+      "tick": 21905,
+      "round": 4,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 24380,
+      "round": 4,
+      "position": {
+        "x": -2297.424560546875,
+        "y": 373.19921875,
+        "z": -167.96875
+      },
+      "weapon": "mac10",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 24730,
+      "round": 4,
+      "position": {
+        "x": -747.9688110351562,
+        "y": -1420.9320068359375,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 24835,
+      "round": 4,
+      "position": {
+        "x": -2333.33984375,
+        "y": -292.80291748046875,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "bomb_planted",
+      "tick": 25497,
+      "round": 4,
+      "position": {
+        "x": -2001.03173828125,
+        "y": 182.05751037597656,
+        "z": -159.96875
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 185
+    },
+    {
+      "type": "player_death",
+      "tick": 25628,
+      "round": 4,
+      "position": {
+        "x": -574.7848510742188,
+        "y": -1002.4049682617188,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 26064,
+      "round": 4,
+      "position": {
+        "x": -965.8783569335938,
+        "y": -1480.947509765625,
+        "z": -167.224609375
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "round_end",
+      "tick": 26064,
+      "round": 4,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 26512,
+      "round": 5,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 29422,
+      "round": 5,
+      "position": {
+        "x": -611.6174926757812,
+        "y": -1324.357421875,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 29635,
+      "round": 5,
+      "position": {
+        "x": -141.97412109375,
+        "y": -1950.5205078125,
+        "z": -167.96875
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 29827,
+      "round": 5,
+      "position": {
+        "x": -689.112060546875,
+        "y": -1591.459716796875,
+        "z": -167.96875
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 30042,
+      "round": 5,
+      "position": {
+        "x": 58.54777526855469,
+        "y": -2363.9814453125,
+        "z": -39.96875
+      },
+      "weapon": "p250",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 30139,
+      "round": 5,
+      "position": {
+        "x": -1283.61474609375,
+        "y": -1004.1305541992188,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 30359,
+      "round": 5,
+      "position": {
+        "x": -1028.4832763671875,
+        "y": -1527.6802978515625,
+        "z": -163.03717041015625
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 30362,
+      "round": 5,
+      "position": {
+        "x": -556.5210571289062,
+        "y": -2349.47021484375,
+        "z": -169.0166015625
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 30843,
+      "round": 5,
+      "position": {
+        "x": 120.98295593261719,
+        "y": -2371.853271484375,
+        "z": -39.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 31197,
+      "round": 5,
+      "position": {
+        "x": -124.5538330078125,
+        "y": -1658.2996826171875,
+        "z": -167.96875
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "round_end",
+      "tick": 31197,
+      "round": 5,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 31645,
+      "round": 6,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 34430,
+      "round": 6,
+      "position": {
+        "x": -1305.4461669921875,
+        "y": -1142.071044921875,
+        "z": -167.96875
+      },
+      "weapon": "hegrenade",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 34525,
+      "round": 6,
+      "position": {
+        "x": -772.7994995117188,
+        "y": -133.58062744140625,
+        "z": -164.10809326171875
+      },
+      "weapon": "awp",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 35196,
+      "round": 6,
+      "position": {
+        "x": -760.189697265625,
+        "y": -1576.196044921875,
+        "z": -167.96875
+      },
+      "weapon": "awp",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "bomb_planted",
+      "tick": 36196,
+      "round": 6,
+      "position": {
+        "x": -616.4090576171875,
+        "y": -1986.20166015625,
+        "z": -179.96875
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 184
+    },
+    {
+      "type": "player_death",
+      "tick": 36522,
+      "round": 6,
+      "position": {
+        "x": -628.8342895507812,
+        "y": -1668.6966552734375,
+        "z": -172.438232421875
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 36633,
+      "round": 6,
+      "position": {
+        "x": -619.8551635742188,
+        "y": -1569.3907470703125,
+        "z": -113.77484130859375
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 36871,
+      "round": 6,
+      "position": {
+        "x": -600.9910278320312,
+        "y": -774.4428100585938,
+        "z": -261.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "bomb_exploded",
+      "tick": 38820,
+      "round": 6,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": 184
+    },
+    {
+      "type": "round_end",
+      "tick": 38820,
+      "round": 6,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 39019,
+      "round": 7,
+      "position": {
+        "x": -997.1490478515625,
+        "y": 393.0024719238281,
+        "z": -367.96875
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 39268,
+      "round": 7,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 41696,
+      "round": 7,
+      "position": {
+        "x": -1033.70166015625,
+        "y": 313.4259338378906,
+        "z": -367.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 42074,
+      "round": 7,
+      "position": {
+        "x": -863.0325927734375,
+        "y": -779.856689453125,
+        "z": -241.96875
+      },
+      "weapon": "m4a1_silencer",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 42192,
+      "round": 7,
+      "position": {
+        "x": -1179.0003662109375,
+        "y": -555.5106811523438,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 42449,
+      "round": 7,
+      "position": {
+        "x": -596.4666748046875,
+        "y": -768.5882568359375,
+        "z": -261.96875
+      },
+      "weapon": "deagle",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 42736,
+      "round": 7,
+      "position": {
+        "x": -802.4423217773438,
+        "y": -2242.741455078125,
+        "z": -178.9185791015625
+      },
+      "weapon": "awp",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 43542,
+      "round": 7,
+      "position": {
+        "x": -1044.57763671875,
+        "y": -1417.3848876953125,
+        "z": -166.0853271484375
+      },
+      "weapon": "awp",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 44515,
+      "round": 7,
+      "position": {
+        "x": -1103.85791015625,
+        "y": -567.9041137695312,
+        "z": -134.96875
+      },
+      "weapon": "famas",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "bomb_planted",
+      "tick": 44650,
+      "round": 7,
+      "position": {
+        "x": -595.8760375976562,
+        "y": -2180.91845703125,
+        "z": -179.96875
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 184
+    },
+    {
+      "type": "player_death",
+      "tick": 45092,
+      "round": 7,
+      "position": {
+        "x": -650.6051635742188,
+        "y": -926.6314086914062,
+        "z": -220.64935302734375
+      },
+      "weapon": "awp",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "round_end",
+      "tick": 45092,
+      "round": 7,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 45540,
+      "round": 8,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 47942,
+      "round": 8,
+      "position": {
+        "x": 146.08871459960938,
+        "y": -2318.220947265625,
+        "z": -39.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 48807,
+      "round": 8,
+      "position": {
+        "x": -1923.5679931640625,
+        "y": -358.01318359375,
+        "z": -167.96875
+      },
+      "weapon": "awp",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "bomb_planted",
+      "tick": 49094,
+      "round": 8,
+      "position": {
+        "x": -1927.2320556640625,
+        "y": 242.10853576660156,
+        "z": -159.96875
+      },
+      "weapon": null,
+      "headshot": null,
+      "siteId": 185
+    },
+    {
+      "type": "player_death",
+      "tick": 49246,
+      "round": 8,
+      "position": {
+        "x": 111.08927917480469,
+        "y": -2307.48828125,
+        "z": -39.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 49410,
+      "round": 8,
+      "position": {
+        "x": -580.2833251953125,
+        "y": -1782.5296630859375,
+        "z": -179.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 49811,
+      "round": 8,
+      "position": {
+        "x": 41.9396858215332,
+        "y": -2333.6708984375,
+        "z": -39.96875
+      },
+      "weapon": "hkp2000",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "bomb_exploded",
+      "tick": 51718,
+      "round": 8,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": 185
+    },
+    {
+      "type": "round_end",
+      "tick": 51718,
+      "round": 8,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 51790,
+      "round": 9,
+      "position": {
+        "x": 550.4663696289062,
+        "y": -2153.419189453125,
+        "z": -39.96875
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 52166,
+      "round": 9,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 54599,
+      "round": 9,
+      "position": {
+        "x": -1796.4375,
+        "y": 74.84115600585938,
+        "z": -165.71875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 55056,
+      "round": 9,
+      "position": {
+        "x": -570.9285888671875,
+        "y": -1102.09033203125,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 55334,
+      "round": 9,
+      "position": {
+        "x": -719.973876953125,
+        "y": -2176.9052734375,
+        "z": -179.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 55359,
+      "round": 9,
+      "position": {
+        "x": -2367.96875,
+        "y": -404.103759765625,
+        "z": -167.96875
+      },
+      "weapon": "ak47",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 55499,
+      "round": 9,
+      "position": {
+        "x": -630.6707153320312,
+        "y": -909.5911865234375,
+        "z": -229.16943359375
+      },
+      "weapon": "ssg08",
+      "headshot": true,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 55625,
+      "round": 9,
+      "position": {
+        "x": 165.00814819335938,
+        "y": -1582.8592529296875,
+        "z": -172.8826904296875
+      },
+      "weapon": "ssg08",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 55959,
+      "round": 9,
+      "position": {
+        "x": -532.1111450195312,
+        "y": -2161.246826171875,
+        "z": -179.96875
+      },
+      "weapon": "ak47",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "round_end",
+      "tick": 55959,
+      "round": 9,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "round_start",
+      "tick": 56407,
+      "round": 10,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "round_end",
+      "tick": 56705,
+      "round": 10,
+      "position": null,
+      "weapon": null,
+      "headshot": null,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57208,
+      "round": 11,
+      "position": {
+        "x": 1376,
+        "y": -304,
+        "z": -167.96875
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57670,
+      "round": 11,
+      "position": {
+        "x": -1902,
+        "y": -1816,
+        "z": -273.9879150390625
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57670,
+      "round": 11,
+      "position": {
+        "x": -1552,
+        "y": -1808,
+        "z": -266.460693359375
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57677,
+      "round": 11,
+      "position": {
+        "x": 1376,
+        "y": -208,
+        "z": -163.965087890625
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57677,
+      "round": 11,
+      "position": {
+        "x": -1776,
+        "y": -1976,
+        "z": -263.96875
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57677,
+      "round": 11,
+      "position": {
+        "x": -1902,
+        "y": -1976,
+        "z": -273.9879150390625
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57677,
+      "round": 11,
+      "position": {
+        "x": 1136,
+        "y": 32,
+        "z": -164.7884521484375
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57677,
+      "round": 11,
+      "position": {
+        "x": 1216,
+        "y": -307,
+        "z": -164.814453125
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    },
+    {
+      "type": "player_death",
+      "tick": 57677,
+      "round": 11,
+      "position": {
+        "x": 1216,
+        "y": -16,
+        "z": -163.96875
+      },
+      "weapon": "world",
+      "headshot": false,
+      "siteId": null
+    }
+  ]
+}
